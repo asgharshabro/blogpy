@@ -1,0 +1,13 @@
+#migrations
+blog/migrations/
+
+
+
+
+#data base
+db.sqlite3
+
+
+
+#cache
+blogpy/__pycache__/
