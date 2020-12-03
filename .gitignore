@@ -11,3 +11,9 @@ db.sqlite3
 
 #cache
 blogpy/__pycache__/
+
+
+#static files
+files/
+
+.env
